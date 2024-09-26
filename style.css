@@ -51,18 +51,18 @@ img {
     flex-direction: column;
 }
 
-.info h4 {
+.info h1 {
     color: hsl(0, 0%, 100%);
     font-weight: 700;
 }
 
-.info h5 {
+.info h2 {
     padding: 5px;
     color: hsl(75 , 94%, 57%);
     font-weight: 600;
 }
 
-.info h6 {
+.info h3 {
     padding: 20px;
     color: hsl(0, 0%, 100%);
     font-weight: 400;
